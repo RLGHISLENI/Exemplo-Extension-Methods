@@ -5,11 +5,11 @@ namespace ExtensionMethods{
   {
     public string Nome { get; set; }
     public string Sobrenome { get; set; }
+    public int Idade { get; set; }
     public string FormatarNome()
     {
       return Nome + " " + Sobrenome; 
     }
-
   }
 
   public static class ExtendPessoa
@@ -26,12 +26,12 @@ namespace ExtensionMethods{
     {
       var pessoa = new Pessoa()
       {
-        Nome = "Roberto",
-        Sobrenome = "Ghisleni"
+        Nome = "Robertinho",
+        Sobrenome = "Ghisleni",
+        Idade = 35
       };
-
-      Console.WriteLine(pessoa.NomeLength());
-      
+      Console.WriteLine(pessoa.FormatarNome() + " possui " + pessoa.NomeLength() + " letras!");
+      Console.ReadKey();      
     }
   }
 }

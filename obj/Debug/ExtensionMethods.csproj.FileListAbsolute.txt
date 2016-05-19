@@ -1,1 +1,6 @@
 P:\Pessoal\GitHub\Exemplo-Extension-Methods\bin\Debug\ExtensionMethods.exe.config
+P:\Pessoal\GitHub\Exemplo-Extension-Methods\bin\Debug\ExtensionMethods.exe
+P:\Pessoal\GitHub\Exemplo-Extension-Methods\bin\Debug\ExtensionMethods.pdb
+P:\Pessoal\GitHub\Exemplo-Extension-Methods\obj\Debug\ExtensionMethods.csprojResolveAssemblyReference.cache
+P:\Pessoal\GitHub\Exemplo-Extension-Methods\obj\Debug\ExtensionMethods.exe
+P:\Pessoal\GitHub\Exemplo-Extension-Methods\obj\Debug\ExtensionMethods.pdb
